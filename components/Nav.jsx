@@ -31,10 +31,10 @@ function Nav() {
                 <Link href="/">Home</Link>
               </li>
               <li>
-                <a>Services</a>
+                <Link href="services">Service</Link>
               </li>
               <li>
-                <a>Contact</a>
+                <Link href="/contect">Contect</Link>
               </li>
             </ul>
           </div>
