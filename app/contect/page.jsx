@@ -3,7 +3,7 @@ import Contect from "@/components/Contect";
 function Final() {
   return (
     <>
-      <Contect />
+      <Contact />
     </>
   );
 }
