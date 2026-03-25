@@ -1,4 +1,4 @@
-import Contect from "@/components/Contect";
+import Contect from "@/components/Contact";
 
 function Final() {
   return (
