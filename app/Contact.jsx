@@ -1,4 +1,4 @@
-function Contect() {
+function Contact() {
   return (
     <>
       <label className="swap swap-flip text-9xl flex justify-center items-center w-screen">
@@ -10,4 +10,4 @@ function Contect() {
   );
 }
 
-export default Contect;
+export default Contact;
